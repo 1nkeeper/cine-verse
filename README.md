@@ -60,3 +60,5 @@ _Showcasing modern React development skills._
 ---
 
 **🎬 Enjoy exploring movies with CineVerse!** 🍿
+
+![cineverse](image.png)
